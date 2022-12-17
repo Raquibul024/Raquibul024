@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Raquibul024
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Md Raquibul Hasan
+- 👀 I’m interested in C, C++, Java, html, JS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on Youtube
+- 📫 How to reach me: raquibul.hasan.24@gmail.com
 
 <!---
 Raquibul024/Raquibul024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
